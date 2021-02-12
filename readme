@@ -1,7 +1,8 @@
 📚 WEB APP PARA TESTAR O ALGORITMO CLASSIFICADOR DE EBOOKS 📚
 
-🥒 Pickle 'count_vect.pkl': 
-    Transformador de textos (tfidf)
+🐍 Arquivo 'clf_app.py':
+    Código da web app:
+        - Criada utilizando o streamlit
 
 🥒 Pickle 'clf_model.pkl': 
     Modelo de ML (LinearCSV):
@@ -9,8 +10,10 @@
         - Versão do classificador: 3
         - Acurácia geral: 0.67
 
-🐍 Arquivo 'clf_app.py':
-    Código da web app:
-        - Criada utilizando o streamlit
+🥒 Pickle 'count_vect.pkl': 
+    Transformador de textos (tfidf)
+
+📝*
+    Bora fazer o deploy (⁰▿⁰)◜✧
 
 
