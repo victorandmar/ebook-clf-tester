@@ -1,0 +1,14 @@
+🥒 Pickle 'count_vect': 
+    Transformador de textos (tfidf)
+
+🥒 Pickle 'clf_model': 
+    Modelo de ML (LinearCSV):
+        - Prevê em qual categoria de ebooks infantis o texto se encaixa melhor (ex: karol conka = animais);
+        - Versão do classificador: 3
+        - Acurácia geral: 0.67
+
+🐍 Arquivo 'clf_app.py':
+    Código da web app:
+        - Criada utilizando o streamlit
+
+
