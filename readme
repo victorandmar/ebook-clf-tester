@@ -1,9 +1,9 @@
 📚 WEB APP PARA TESTAR O ALGORITMO CLASSIFICADOR DE EBOOKS 📚
 
-🥒 Pickle 'count_vect': 
+🥒 Pickle 'count_vect.pkl': 
     Transformador de textos (tfidf)
 
-🥒 Pickle 'clf_model': 
+🥒 Pickle 'clf_model.pkl': 
     Modelo de ML (LinearCSV):
         - Prevê em qual categoria de ebooks infantis o texto se encaixa melhor (ex: karol conka = animais);
         - Versão do classificador: 3
