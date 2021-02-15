@@ -79,7 +79,7 @@ def main():
     st.write("**Algoritmo de machine learning**: LinearSVC")
     st.write("**Acurácia do modelo** (medida para chance de acerto): 67%")
     st.markdown("**Categorias e respectivas acurácias:**")
-    st.write("\t - Amigos da natreza - 83%")
+    st.write("\t - Amigos da natureza - 83%")
     st.write("\t - Animais - 78%")
     st.write("\t - Lidando com os sentimentos - 76%")
     st.write("\t - Família - 71%")
