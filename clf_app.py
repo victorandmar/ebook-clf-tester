@@ -7,7 +7,7 @@ model = pickle.load(open('model_clf.pkl','rb'))
 count_vect = pickle.load(open('count_vect.pkl','rb'))
 
 # Configurações gerais da página
-st.set_page_config(
+st.beta_set_page_config(
     page_title="EM | Previsão de Categoria de Ebooks Infantis",
     page_icon="📚",      # polimento e chiquezas
     layout="centered",
